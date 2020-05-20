@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">raspberrypi_app</string>
+    <string name="httpURL">https://project-jade.herokuapp.com/rasp</string>
+    <string name="mainTitle">JADE</string>
+    <string name="LightsOn">Turn Lights On</string>
+</resources>

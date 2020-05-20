@@ -1,0 +1,2 @@
+rootProject.name='raspberrypi_app'
+include ':app'
