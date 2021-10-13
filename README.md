@@ -10,5 +10,3 @@ SOFTWARE
 Android Studios, Python, Firebase
 
 
-MY CONTRIBUTION: 
-Developed the backend for the app, that controls the humitifer. 
