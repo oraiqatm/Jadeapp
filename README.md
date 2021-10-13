@@ -1,7 +1,8 @@
 "#Jadeapp" 
 
+Just Another DiffusEr
 
-Built and developed an automated buddhist darth vader humitifier in a group of 4. 
+Built and developed an automated buddhist darth vader Diffuser in a group of 4. 
 
 HARDWARE: 
 Humidifier, 3D filiment, RaspberryPI 4
