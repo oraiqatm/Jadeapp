@@ -7,8 +7,8 @@ HARDWARE:
 Humidifier, 3D filiment, RaspberryPI 4
 
 SOFTWARE
-Android Studios, NodeJS, Firebase-admin, ejs, express.
+Android Studios, Python, Firebase
 
 
 MY CONTRIBUTION: 
-Developing the backend for the app, that controls the humitifer. 
+Developed the backend for the app, that controls the humitifer. 
